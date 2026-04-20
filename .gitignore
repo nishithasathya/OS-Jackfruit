@@ -1,6 +1,10 @@
 solved
 
 # Build artifacts (user-space)
+engine
+memory_hog
+cpu_hog
+io_pulse
 boilerplate/engine
 boilerplate/memory_hog
 boilerplate/cpu_hog
